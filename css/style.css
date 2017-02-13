@@ -1,0 +1,30 @@
+body {
+  background-image: url("http://wallpapercave.com/wp/pEeUsp1.jpg");
+  font-family: "Raleway", sans-serif;
+}
+
+.jumbotron {
+  margin-top: 50px;
+  margin-right: 12vw;
+  margin-left: 12vw;
+  opacity: 0.8;
+}
+
+.btn {
+  margin: 10px;
+  opacity: 0.8;
+  border: none;
+  padding: 15px;
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.page-footer {
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 15px;
+  color: white;
+  opacity: 0.5;
+}
